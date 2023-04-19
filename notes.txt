@@ -1,4 +1,5 @@
-NOTA DE ATUALIZAÇÃO:
-MELHORIAS NA ESTABILIDADE GERAL DO APPLICATIVO
+Nota de atualização:
 
-VERSÃO:V1.3
+Corrigido um bug que causava o travamento do aplicativo ao realizar uma determinada ação.
+Melhorias de desempenho e estabilidade foram implementadas.
+Pequenas atualizações de interface do usuário para melhorar a usabilidade.
